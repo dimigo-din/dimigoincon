@@ -1,0 +1,19 @@
+{
+  "name": "dimigoincon",
+  "version": "1.0.0",
+  "description": "Dimigoin official icon pack",
+  "main": "css/dimigoincon.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1p4ca/dimigoincon.git"
+  },
+  "author": "Team DIMIGO.in",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a1p4ca/dimigoincon/issues"
+  },
+  "homepage": "https://github.com/a1p4ca/dimigoincon#readme"
+}
