@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'dimigoincon';
-  src: url('../font/dimigoincon.eot?79885244');
-  src: url('../font/dimigoincon.eot?79885244#iefix') format('embedded-opentype'),
-       url('../font/dimigoincon.woff2?79885244') format('woff2'),
-       url('../font/dimigoincon.woff?79885244') format('woff'),
-       url('../font/dimigoincon.ttf?79885244') format('truetype'),
-       url('../font/dimigoincon.svg?79885244#dimigoincon') format('svg');
+  src: url('../font/dimigoincon.eot?67696631');
+  src: url('../font/dimigoincon.eot?67696631#iefix') format('embedded-opentype'),
+       url('../font/dimigoincon.woff2?67696631') format('woff2'),
+       url('../font/dimigoincon.woff?67696631') format('woff'),
+       url('../font/dimigoincon.ttf?67696631') format('truetype'),
+       url('../font/dimigoincon.svg?67696631#dimigoincon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'dimigoincon';
-    src: url('../font/dimigoincon.svg?79885244#dimigoincon') format('svg');
+    src: url('../font/dimigoincon.svg?67696631#dimigoincon') format('svg');
   }
 }
 */
@@ -58,13 +58,15 @@
 .icon-arrow-slim-left:before { content: '\e800'; } /* '' */
 .icon-arrow-slim-right:before { content: '\e801'; } /* '' */
 .icon-arrow-up:before { content: '\e802'; } /* '' */
+.icon-email:before { content: '\e803'; } /* '' */
 .icon-ball:before { content: '\e804'; } /* '' */
-.icon-bamboo:before { content: '\e805'; } /* '' */
-.icon-clip:before { content: '\e807'; } /* '' */
-.icon-club-administration:before { content: '\e808'; } /* '' */
-.icon-club:before { content: '\e809'; } /* '' */
-.icon-comment:before { content: '\e80a'; } /* '' */
-.icon-counsel:before { content: '\e80b'; } /* '' */
+.icon-menu:before { content: '\e805'; } /* '' */
+.icon-bamboo:before { content: '\e806'; } /* '' */
+.icon-facebook:before { content: '\e807'; } /* '' */
+.icon-clip:before { content: '\e808'; } /* '' */
+.icon-club-administration:before { content: '\e809'; } /* '' */
+.icon-club:before { content: '\e80a'; } /* '' */
+.icon-comment:before { content: '\e80b'; } /* '' */
 .icon-cross:before { content: '\e80c'; } /* '' */
 .icon-delete:before { content: '\e80d'; } /* '' */
 .icon-detail:before { content: '\e80e'; } /* '' */
@@ -98,10 +100,12 @@
 .icon-sun:before { content: '\e82a'; } /* '' */
 .icon-upload:before { content: '\e82b'; } /* '' */
 .icon-alert:before { content: '\e82c'; } /* '' */
+.icon-counsel:before { content: '\e82d'; } /* '' */
 .icon-arrow-left:before { content: '\e82e'; } /* '' */
 .icon-arrow-right:before { content: '\e82f'; } /* '' */
 .icon-unidentified:before { content: '\e831'; } /* '' */
 .icon-cart:before { content: '\e832'; } /* '' */
 .icon-arrow-down:before { content: '\e833'; } /* '' */
+.icon-long-arrow:before { content: '\e834'; } /* '' */
 .icon-arrow-slim-up:before { content: '\e835'; } /* '' */
 .icon-arrow-slim-down:before { content: '\e836'; } /* '' */
