@@ -1,19 +1,19 @@
 {
   "name": "dimigoincon",
-  "version": "1.0.4",
+  "version": "2.3.0",
   "description": "Dimigoin official icon pack",
-  "main": "css/dimigoincon.css",
+  "main": "css/dimigoincon_23.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a1p4ca/dimigoincon.git"
+    "url": "git+https://github.com/dimigoin/dimigoincon.git"
   },
   "author": "Team DIMIGO.in",
-  "license": "MIT",
+  "license": "CC-BY-NC-ND-4.0",
   "bugs": {
-    "url": "https://github.com/a1p4ca/dimigoincon/issues"
+    "url": "https://github.com/dimigoin/dimigoincon/issues"
   },
-  "homepage": "https://github.com/a1p4ca/dimigoincon#readme"
+  "homepage": "https://github.com/dimigoin/dimigoincon#readme"
 }
