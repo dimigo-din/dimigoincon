@@ -1,8 +1,8 @@
 {
   "name": "dimigoincon",
-  "version": "2.3.0",
+  "version": "2.5.1",
   "description": "Dimigoin official icon pack",
-  "main": "css/dimigoincon_23.css",
+  "main": "css/dimigoincon.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
