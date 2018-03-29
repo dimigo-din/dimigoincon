@@ -88,7 +88,7 @@ require('dimigoincon')
 ```html
 <link
   rel="stylesheet" type="text/css"
-  href="https://cdn.rawgit.com/dimigoin/dimigoincon/5a3d979b/css/dimigoincon_23.css">
+  href="https://cdn.rawgit.com/dimigoin/dimigoincon/bfd46871/css/dimigoincon.css">
 ```
 
 
