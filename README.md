@@ -64,6 +64,7 @@
 - icon-research
 - icon-social
 - icon-submission
+- icon-newspaper
 
 
 
