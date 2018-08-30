@@ -1,6 +1,6 @@
 {
   "name": "dimigoincon",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "description": "Dimigoin official icon pack",
   "main": "css/dimigoincon.css",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/dimigoin/dimigoincon.git"
   },
-  "author": "Team DIMIGO.in",
+  "author": "Team DIMIGOIN",
   "license": "CC-BY-NC-ND-4.0",
   "bugs": {
     "url": "https://github.com/dimigoin/dimigoincon/issues"
