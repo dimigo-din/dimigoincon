@@ -1,4 +1,10 @@
 # DIMIGOINcon
+![npm](https://img.shields.io/npm/v/dimigoincon.svg)
+![npm](https://img.shields.io/npm/dt/dimigoincon.svg)
+![GitHub](https://img.shields.io/npm/l/dimigoincon.svg)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/dimigoin/dimigoincon.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/dimigoin/dimigoincon.svg)
+
 **Join in. Link in. DIMIGOIN.** DIMIGOINcon(이하 디미고인콘)은 한국디지털미디어고등학교 인트라넷 서비스 [DIMIGOIN](https://dimigo.in)에 사용되는 아이콘 팩입니다. Team DIMIGOIN은 아이콘을 SVG로 제작하여 [Fontello](http://fontello.com/)을 통해 웹 폰트로 완성하였습니다. 유용성과 유려함이 공존하는 디미고인콘을 만나보세요.
 
 ### 구성
