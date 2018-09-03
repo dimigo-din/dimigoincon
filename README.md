@@ -1,15 +1,16 @@
 # DIMIGOINcon
+![npm](https://img.shields.io/npm/v/dimigoincon.svg)
+![npm](https://img.shields.io/npm/dt/dimigoincon.svg)
+![GitHub](https://img.shields.io/npm/l/dimigoincon.svg)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/dimigoin/dimigoincon.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/dimigoin/dimigoincon.svg)
 
 **Join in. Link in. DIMIGOIN.** DIMIGOINcon(이하 디미고인콘)은 한국디지털미디어고등학교 인트라넷 서비스 [DIMIGOIN](https://dimigo.in)에 사용되는 아이콘 팩입니다. Team DIMIGOIN은 아이콘을 SVG로 제작하여 [Fontello](http://fontello.com/)을 통해 웹 폰트로 완성하였습니다. 유용성과 유려함이 공존하는 디미고인콘을 만나보세요.
 
-
-
 ### 구성
-
 더 자연스러운 흐름, 더 나은 경험을 위해 DIMIGOIN은 용도가 다른 두 종류의 아이콘이 사용되었습니다. 세세한 부분에서 자연스러움을 위해 배치된 32px 이하의 작은 아이콘과 메인 페이지에서 멋진 경험을 위해 삽입된 96px 아이콘이 있죠.
 
-작은 아이콘(32px 이하) :
-
+#### 작은 아이콘(32px 이하)
 - icon-alert
 - icon-arrow-left
 - icon-arrow-up
@@ -53,9 +54,7 @@
 - icon-benedu
 - icon-between
 
-
-큰 아이콘(96px) :
-
+#### 큰 아이콘(96px)
 - icon-bamboo
 - icon-club-lg
 - icon-cart
@@ -67,12 +66,9 @@
 - icon-social
 - icon-submission
 
-
-
 ### 설치
 
 #### Webpack
-
 ```bash
 yarn add dimigoincon
 # yarn add --dev style-loader file-loader
@@ -84,26 +80,20 @@ require('dimigoincon')
 ```
 
 #### CDN
-
 다음 태그를 &lt;head&gt; 안에 추가하세요.
 
 ```html
 <link
   rel="stylesheet" type="text/css"
-  href="https://cdn.rawgit.com/dimigoin/dimigoincon/bfd46871/css/dimigoincon.css">
+  href="https://cdn.rawgit.com/dimigoin/dimigoincon/9e0a536/css/dimigoincon.css">
 ```
 
-
 ### 사용
-
 위의 목록에 수록된 모든 아이콘은 웹 폰트를 통해 간편하게 사용할 수 있습니다.
 
 ```html
 <i class="icon-dimicat"></i>
 ```
 
-
-
 ### 정리
-
 디미고인콘은 DIMIGOIN을 위해 탄생하여 [CC-BY-NC-ND-4.0](LICENSE) 라이선스를 채택하고 있습니다.
