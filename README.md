@@ -49,7 +49,9 @@
 - icon-setting
 - icon-sun
 - icon-upload
-
+- icon-newspaper
+- icon-benedu
+- icon-between
 
 
 큰 아이콘(96px) :
@@ -64,7 +66,6 @@
 - icon-research
 - icon-social
 - icon-submission
-- icon-newspaper
 
 
 
