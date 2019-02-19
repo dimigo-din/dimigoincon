@@ -1,4 +1,7 @@
 # DIMIGOINcon
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dimigoin/dimigoincon.svg)](https://greenkeeper.io/)
+
 ![npm](https://img.shields.io/npm/v/dimigoincon.svg)
 ![npm](https://img.shields.io/npm/dt/dimigoincon.svg)
 ![GitHub](https://img.shields.io/npm/l/dimigoincon.svg)
